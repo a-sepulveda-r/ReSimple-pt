@@ -8,10 +8,8 @@ El objetivo de este proyecto es desarrollar una aplicación que permita visualiz
 
 ## Requerimientos técnicos
 
-- **Entrega en GitHub:** La prueba debe ser subida a un repositorio GitHub público.
-- **Fecha de Entrega:** Se indicará al postulante la fecha de entrega a través del correo.
 - **Lenguaje de Programación:** La parte lógica de la prueba debe ser realizada con JavaScript.
-- **Frontend:** Se permite la libertad en el uso de librerías (Bootstrap, Skeleton, Materialize, etc.). Se considerará puntaje adicional si se utiliza React.
+- **Frontend:** Se permite la libertad en el uso de librerías (Bootstrap, Skeleton, Materialize, etc.).
 - **Convenciones de Código:** Todo el código (variables, métodos, clases, funciones, etc.) debe estar en inglés.
 - **Metodología CSS:** Utilizar la metodología BEM para el nombramiento de clases.
 - **Diseño Responsivo:** El diseño debe ser responsivo y adaptable a diferentes dispositivos.
@@ -28,8 +26,12 @@ Para visualizar la aplicación desplegada:
 
 Si prefieres ejecutar la aplicación localmente:
 
-1. Clona el repositorio desde GitHub: [Link de repo](https://github.com/a-sepulveda-r/ReSimple-pt)
+1. Clona el repositorio desde GitHub: [Link de repositorio](https://github.com/a-sepulveda-r/ReSimple-pt)
 2. Instala las dependencias ejecutando `npm install`.
-3. Inicia la aplicación con el comando `npm start`.
+3. Inicia la aplicación con el comando `npm run dev`.
 
 Esto te permitirá ejecutar la aplicación en un entorno local y explorar su funcionalidad.
+
+## Notas Adicionales
+
+Asegúrate de tener Node.js y npm instalados en tu entorno para poder ejecutar la aplicación de manera local.
