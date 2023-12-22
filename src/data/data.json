@@ -1,0 +1,178 @@
+{
+  "COMPANIES": [
+    {
+      "COMPANY_ID": 1,
+      "COMPANY_NAME": "Grupo Dinámico Alfa",
+      "AREAS": [
+        { "AREA_ID": "A1", "AREA_NAME": "Finanzas" },
+        { "AREA_ID": "A2", "AREA_NAME": "Marketing" },
+        { "AREA_ID": "A3", "AREA_NAME": "Operaciones" },
+        { "AREA_ID": "A4", "AREA_NAME": "Recursos Humanos" }
+      ]
+    },
+    {
+      "COMPANY_ID": 2,
+      "COMPANY_NAME": "Soluciones Innovadoras Gamma",
+      "AREAS": [
+        { "AREA_ID": "A1", "AREA_NAME": "Recursos Humanos" },
+        { "AREA_ID": "A2", "AREA_NAME": "IT" },
+        { "AREA_ID": "A3", "AREA_NAME": "Legal" },
+        { "AREA_ID": "A4", "AREA_NAME": "Comunicaciones" }
+      ]
+    },
+    {
+      "COMPANY_ID": 3,
+      "COMPANY_NAME": "Tecnologías Avanzadas Omega",
+      "AREAS": [
+        { "AREA_ID": "A1", "AREA_NAME": "Investigación y Desarrollo" },
+        { "AREA_ID": "A2", "AREA_NAME": "Ventas" },
+        { "AREA_ID": "A3", "AREA_NAME": "Atención al Cliente" },
+        { "AREA_ID": "A4", "AREA_NAME": "Logística" }
+      ]
+    },
+    {
+      "COMPANY_ID": 4,
+      "COMPANY_NAME": "Conexiones Estratégicas Beta",
+      "AREAS": [
+        { "AREA_ID": "A1", "AREA_NAME": "Desarrollo de Producto" },
+        { "AREA_ID": "A2", "AREA_NAME": "Servicio al Cliente" }
+      ]
+    },
+    {
+      "COMPANY_ID": 5,
+      "COMPANY_NAME": "Visión Global Zeta",
+      "AREAS": [
+        { "AREA_ID": "A1", "AREA_NAME": "Investigación de Mercado" },
+        { "AREA_ID": "A2", "AREA_NAME": "Publicidad" }
+      ]
+    }
+  ],
+  "EMPLOYEES": [
+    {
+      "COMPANY_ID": 1,
+      "AREA_ID": "A1",
+      "WORKER_ID": "12345678-9",
+      "WORKER_NAME": "Juan Pérez",
+      "AGE": 30,
+      "PROFESSION": "Ingeniero",
+      "POSITION": "Supervisor"
+    },
+    {
+      "COMPANY_ID": 1,
+      "AREA_ID": "A2",
+      "WORKER_ID": "23456789-0",
+      "WORKER_NAME": "Ana Gómez",
+      "AGE": 42,
+      "PROFESSION": "Contadora",
+      "POSITION": "Gerente"
+    },
+    {
+      "COMPANY_ID": 1,
+      "AREA_ID": "A3",
+      "WORKER_ID": "34567890-1",
+      "WORKER_NAME": "Carlos Ruiz",
+      "AGE": 36,
+      "PROFESSION": "Analista de Operaciones",
+      "POSITION": "Analista"
+    },
+    {
+      "COMPANY_ID": 2,
+      "AREA_ID": "A1",
+      "WORKER_ID": "56789012-3",
+      "WORKER_NAME": "Luis Méndez",
+      "AGE": 45,
+      "PROFESSION": "Informático",
+      "POSITION": "Desarrollador"
+    },
+    {
+      "COMPANY_ID": 2,
+      "AREA_ID": "A3",
+      "WORKER_ID": "45678901-2",
+      "WORKER_NAME": "María López",
+      "AGE": 28,
+      "PROFESSION": "Abogada",
+      "POSITION": "Asistente"
+    },
+    {
+      "COMPANY_ID": 2,
+      "AREA_ID": "A3",
+      "WORKER_ID": "67890123-4",
+      "WORKER_NAME": "Sara Jiménez",
+      "AGE": 33,
+      "PROFESSION": "Psicóloga",
+      "POSITION": "RRHH"
+    },
+    {
+      "COMPANY_ID": 3,
+      "AREA_ID": "A1",
+      "WORKER_ID": "78901234-5",
+      "WORKER_NAME": "Roberto Díaz",
+      "AGE": 39,
+      "PROFESSION": "Médico",
+      "POSITION": "Coordinador"
+    },
+    {
+      "COMPANY_ID": 3,
+      "AREA_ID": "A2",
+      "WORKER_ID": "89012345-6",
+      "WORKER_NAME": "Patricia Molina",
+      "AGE": 50,
+      "PROFESSION": "Secretaria",
+      "POSITION": ""
+    },
+    {
+      "COMPANY_ID": 3,
+      "AREA_ID": "A3",
+      "WORKER_ID": "90123456-7",
+      "WORKER_NAME": "Omar Núñez",
+      "AGE": 29,
+      "PROFESSION": "Arquitecto",
+      "POSITION": "Técnico"
+    },
+    {
+      "COMPANY_ID": 4,
+      "AREA_ID": "A1",
+      "WORKER_ID": "12345678-9",
+      "WORKER_NAME": "Juan Pérez",
+      "AGE": 30,
+      "PROFESSION": "Ingeniero",
+      "POSITION": "Supervisor"
+    },
+    {
+      "COMPANY_ID": 4,
+      "AREA_ID": "A2",
+      "WORKER_ID": "23456789-0",
+      "WORKER_NAME": "Ana Gómez",
+      "AGE": 42,
+      "PROFESSION": "Contadora",
+      "POSITION": "Gerente"
+    },
+    {
+      "COMPANY_ID": 4,
+      "AREA_ID": "A3",
+      "WORKER_ID": "34567890-1",
+      "WORKER_NAME": "Carlos Ruiz",
+      "AGE": 36,
+      "PROFESSION": "",
+      "POSITION": "Analista"
+    },
+    {
+      "COMPANY_ID": 5,
+      "AREA_ID": "A1",
+      "WORKER_ID": "45678901-2",
+      "WORKER_NAME": "María López",
+      "AGE": 28,
+      "PROFESSION": "Abogada",
+      "POSITION": "Asistente"
+    },
+    {
+      "COMPANY_ID": 5,
+      "AREA_ID": "A2",
+      "WORKER_ID": "67890123-4",
+      "WORKER_NAME": "Sara Jiménez",
+      "AGE": 33,
+      "PROFESSION": "Psicóloga",
+      "POSITION": "RRHH"
+    }
+  ]
+}
